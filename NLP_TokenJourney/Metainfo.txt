@@ -1,0 +1,17 @@
+Name of QuantLet: NLP_TokenJourney
+
+Published in: Natural Language Processing Introduction - ASE Summer School 2025
+
+Description: 'Step-by-step visualization of a token journey through a transformer architecture. Shows embedding, positional encoding, multi-head attention, feed-forward networks, and layer normalization. Each transformation is visualized with actual numerical values in 3D space for intuitive understanding.'
+
+Keywords: NLP, transformers, attention mechanism, token processing, positional encoding, layer normalization, feed-forward, visualization
+
+See also: NLP_Transformers3D, NLP_TransformersSimple, NLP_TransformersTraining
+
+Author: Joerg Osterrieder
+
+Submitted: Mon, August 25 2025 by Joerg Osterrieder
+
+Datafiles: shakespeare_sonnets.txt
+
+Output: Step-by-step 3D visualizations, attention weight heatmaps, vector transformation animations

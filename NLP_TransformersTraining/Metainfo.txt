@@ -1,0 +1,17 @@
+Name of QuantLet: NLP_TransformersTraining
+
+Published in: Natural Language Processing Introduction - ASE Summer School 2025
+
+Description: 'Visualizes how transformers learn through training process in 3D space. Shows gradient flow, weight updates, loss landscape navigation, and attention pattern evolution. Demonstrates training dynamics using "to be or not" Shakespeare example with real-time 3D visualizations.'
+
+Keywords: NLP, transformers, training process, gradient descent, loss landscape, backpropagation, attention evolution, 3D visualization
+
+See also: NLP_Transformers3D, NLP_TransformersSimple, NLP_TokenJourney
+
+Author: Joerg Osterrieder
+
+Submitted: Mon, August 25 2025 by Joerg Osterrieder
+
+Datafiles: shakespeare_sonnets.txt
+
+Output: Training loss curves in 3D, gradient flow visualizations, attention pattern evolution, weight update animations

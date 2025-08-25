@@ -1,0 +1,17 @@
+Name of QuantLet: NLP_Compare
+
+Published in: Natural Language Processing Introduction - ASE Summer School 2025
+
+Description: 'Comprehensive comparison of different NLP methods including N-grams, neural networks, and transformers. Evaluates performance metrics, generation quality, and computational requirements. Includes side-by-side visualizations and perplexity comparisons across all approaches.'
+
+Keywords: NLP, model comparison, perplexity, performance metrics, n-grams, neural networks, transformers, benchmarking
+
+See also: NLP_Ngrams, NLP_Neural, NLP_TokenJourney, NLP_Transformers3D
+
+Author: Joerg Osterrieder
+
+Submitted: Mon, August 25 2025 by Joerg Osterrieder
+
+Datafiles: shakespeare_sonnets.txt
+
+Output: Comparative performance charts, perplexity tables, generation quality samples, computational cost analysis
