@@ -1,0 +1,31 @@
+GITHUB TOKEN CREATION - QUICK GUIDE
+====================================
+
+I've opened the GitHub token creation page in your browser.
+
+REQUIRED SETTINGS:
+------------------
+1. Note/Name: QuantLet Submission
+2. Expiration: 30 days (or your preference)
+3. Scopes to select:
+   [X] repo (Full control of private repositories)
+   [X] workflow (optional, but recommended)
+
+4. Click "Generate token" at the bottom
+
+5. IMPORTANT: Copy the token immediately!
+   It starts with: ghp_
+   You won't be able to see it again!
+
+6. Come back here and I'll use it to submit.
+
+WAITING FOR YOUR TOKEN...
+========================
+
+Once you have the token, we'll run:
+python quantlet_auto_submit.py --token YOUR_TOKEN_HERE
+
+This will automatically:
+- Create the GitHub repository
+- Push all your code
+- Submit to QuantLet organization

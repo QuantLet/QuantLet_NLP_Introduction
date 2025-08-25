@@ -1,5 +1,9 @@
 # Natural Language Processing Introduction - QuantLet Collection
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josterri/QuantLet_NLP_Introduction/master)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub](https://img.shields.io/badge/GitHub-QuantLet-blue)](https://github.com/josterri/QuantLet_NLP_Introduction)
+
 ## ASE Summer School 2025
 
 A comprehensive BSc-level introduction to Natural Language Processing through interactive Jupyter notebooks. This collection provides a progressive learning journey from classical N-gram models to modern transformer architectures, all with minimal mathematical complexity and maximum intuitive understanding.
