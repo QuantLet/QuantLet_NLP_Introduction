@@ -1,0 +1,26 @@
+<div style="margin: 0; padding: 0; text-align: center; border: none;">
+<a href="https://quantlet.com" target="_blank" style="text-decoration: none; border: none;">
+<img src="https://github.com/StefanGam/test-repo/blob/main/quantlet_design.png?raw=true" alt="Header Image" width="100%" style="margin: 0; padding: 0; display: block; border: none;" />
+</a>
+</div>
+
+```
+Name of QuantLet: NLP_Neural
+
+Published in: Natural Language Processing Introduction - ASE Summer School 2025
+
+Description: Implements a simple 2-layer neural network for language modeling. Shows progression from N-grams to neural approaches, includes training visualization, loss curves, and perplexity metrics. Demonstrates backpropagation and gradient descent for text generation tasks.
+
+Keywords: NLP, neural networks, language modeling, backpropagation, gradient descent, perplexity, deep learning, Shakespeare
+
+See also: NLP_Ngrams, NLP_Embeddings, NLP_Compare, NLP_TokenJourney
+
+Author: Joerg Osterrieder
+
+Submitted: Mon, August 25 2025 by Joerg Osterrieder
+
+Datafiles: shakespeare_sonnets.txt
+
+Output: Training loss curves, perplexity plots, generated text samples, weight visualizations
+
+```
